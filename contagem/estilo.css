@@ -1,0 +1,36 @@
+body {
+    background: rgb(2, 2, 2);
+    font: normal 18pt arial;
+}
+
+
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+fieldset{
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.681);
+}
+input#bot {
+    font-size: 22px;
+    border-radius: 8px;
+    background-color: rgb(57, 27, 253);
+    color: white;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.566);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
